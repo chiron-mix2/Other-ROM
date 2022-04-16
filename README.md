@@ -1,6 +1,6 @@
 # Kernel
 
-[**English**](https://github.com/chiron-mix2/Kernel/READMEEN.md)
+[**English**](https://github.com/chiron-mix2/Other-ROM/blob/master/READMEEN.md)
 
 提示：此页面为Chiron(Mix2)内核的ROM存档页面，本组织不对任何可能潜在的风险负责。
 
