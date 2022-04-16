@@ -1,5 +1,7 @@
-# Chiron Rom Archive
+# Kernel
 
-本仓库为Chiron（XiaoMi Mix2）其他ROM的存档页面
+[**English**](https://github.com/chiron-mix2/Kernel/READMEEN.md)
 
-中国大陆的用户请使用Github镜像站进行下载（如hub.fastgit.xyz）
+提示：此页面为Chiron(Mix2)内核的ROM存档页面，本组织不对任何可能潜在的风险负责。
+
+中国地区可使用镜像站hub.fastgit.xyz来加速下载。
