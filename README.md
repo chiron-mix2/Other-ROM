@@ -1,6 +1,6 @@
 # Other-ROM
 
-[**English**](https://github.com/chiron-mix2/Other-ROM/READMEEN.md)
+[**English**](https://github.com/chiron-mix2/Other-ROM/blob/master/READMEEN.md)
 
 提示：此页面为Chiron(Mix2)其他ROM的ROM存档页面，本组织不对任何可能潜在的风险负责。
 
